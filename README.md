@@ -4,6 +4,7 @@ Polski układ klawiatury programisty przeportowany z Linuxa na Windowsa za pomoc
 
 ## Znaki specjalne
 Ten układ posiada znacznie więcej znaków specjalnych niż układ z Windowsa, między innymi:
+
 | Próbka |                Nazwa               |                        Skrót                        |
 |:------:|:----------------------------------:|:---------------------------------------------------:|
 |    „   |  Polski cudzysłów apostrofowy lewy |           <kbd>Alt Gr</kbd> + <kbd>V</kbd>          |
