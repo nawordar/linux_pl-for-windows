@@ -1,5 +1,6 @@
 # linux_pl-for-windows
-Polski układ klawiatury programisty przeportowany z Linuxa na Windowsa za pomocą programu [Microsoft Keyboard Layout Creator 1.4][1]
+Polski układ klawiatury programisty przeportowany z Linuxa na Windowsa za pomocą programu [Microsoft Keyboard Layout Creator 1.4][msklc]
+
 ![map]
 
 ## Znaki specjalne
@@ -19,4 +20,4 @@ Aby wygenerować plik `.exe` do instalacji układu klawiatury, należy:
 2. Wybrać opcję: `Build DLL and Setup Package`
 
 [map]: keyboard.png
-[1]: https://www.microsoft.com/en-us/download/details.aspx?id=22339
+[msklc]: https://www.microsoft.com/en-us/download/details.aspx?id=102134
